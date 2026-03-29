@@ -22,7 +22,13 @@ nav ul li a {
 section {
   padding: 40px;
 }
-
+.skills span{
+  display: inline-block;
+  background: #eee;
+  padding: 8px 12px;
+  margin: 5px;
+  border-radius: 8px;
+}
 .project {
   margin: 20px;
   padding: 15px;
